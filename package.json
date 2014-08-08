@@ -1,0 +1,20 @@
+{
+  "name": "chromeapp-polymer-example",
+  "version": "0.0.0",
+  "devDependencies": {
+    "coffee-script": "*",
+    "gulp": "*",
+    "gulp-bower": "*",
+    "gulp-clean": "*",
+    "gulp-coffee": "*",
+    "gulp-include": "*",
+    "gulp-jade": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-stylus": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "gulp-vulcanize": "^0.2.1",
+    "gulp-yml": "*",
+    "gulp-zip": "*"
+  }
+}
